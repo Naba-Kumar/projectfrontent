@@ -1,27 +1,28 @@
 {
   "files": {
-    "main.css": "/projectfrontent/static/css/main.e11caa5c.chunk.css",
-    "main.js": "/projectfrontent/static/js/main.885d6523.chunk.js",
-    "main.js.map": "/projectfrontent/static/js/main.885d6523.chunk.js.map",
-    "runtime-main.js": "/projectfrontent/static/js/runtime-main.ee39e10d.js",
-    "runtime-main.js.map": "/projectfrontent/static/js/runtime-main.ee39e10d.js.map",
+    "main.css": "/projectfrontent/static/css/main.3d379d82.chunk.css",
+    "main.js": "/projectfrontent/static/js/main.738e381b.chunk.js",
+    "main.js.map": "/projectfrontent/static/js/main.738e381b.chunk.js.map",
+    "runtime-main.js": "/projectfrontent/static/js/runtime-main.3af07f4f.js",
+    "runtime-main.js.map": "/projectfrontent/static/js/runtime-main.3af07f4f.js.map",
     "static/js/2.2727c45b.chunk.js": "/projectfrontent/static/js/2.2727c45b.chunk.js",
     "static/js/2.2727c45b.chunk.js.map": "/projectfrontent/static/js/2.2727c45b.chunk.js.map",
-    "static/js/3.7e20c623.chunk.js": "/projectfrontent/static/js/3.7e20c623.chunk.js",
-    "static/js/3.7e20c623.chunk.js.map": "/projectfrontent/static/js/3.7e20c623.chunk.js.map",
+    "static/js/3.f0a23162.chunk.js": "/projectfrontent/static/js/3.f0a23162.chunk.js",
+    "static/js/3.f0a23162.chunk.js.map": "/projectfrontent/static/js/3.f0a23162.chunk.js.map",
     "index.html": "/projectfrontent/index.html",
-    "static/css/main.e11caa5c.chunk.css.map": "/projectfrontent/static/css/main.e11caa5c.chunk.css.map",
+    "static/css/main.3d379d82.chunk.css.map": "/projectfrontent/static/css/main.3d379d82.chunk.css.map",
     "static/js/2.2727c45b.chunk.js.LICENSE.txt": "/projectfrontent/static/js/2.2727c45b.chunk.js.LICENSE.txt",
     "static/media/ajp.4b8e8cc0.png": "/projectfrontent/static/media/ajp.4b8e8cc0.png",
     "static/media/bjp.bbe61610.png": "/projectfrontent/static/media/bjp.bbe61610.png",
     "static/media/bpf.b3c70920.png": "/projectfrontent/static/media/bpf.b3c70920.png",
     "static/media/inc.91d3e037.png": "/projectfrontent/static/media/inc.91d3e037.png",
+    "static/media/none.3d232a17.png": "/projectfrontent/static/media/none.3d232a17.png",
     "static/media/slogo.bae8dafc.png": "/projectfrontent/static/media/slogo.bae8dafc.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.ee39e10d.js",
+    "static/js/runtime-main.3af07f4f.js",
     "static/js/2.2727c45b.chunk.js",
-    "static/css/main.e11caa5c.chunk.css",
-    "static/js/main.885d6523.chunk.js"
+    "static/css/main.3d379d82.chunk.css",
+    "static/js/main.738e381b.chunk.js"
   ]
 }
